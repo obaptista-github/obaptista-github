@@ -36,7 +36,7 @@ O Claude, ainda em fase de crescimento, acumulou 1,5 milhão de instalações at
 
 Embora todos os três aplicativos de IA generativa estejam presentes nas principais lojas de aplicativos, o ChatGPT se destaca como o mais popular, com uma base de usuários significativamente maior que seus concorrentes. Isso reflete não apenas seu pioneirismo, mas também a eficácia de suas estratégias de mercado e sua aceitação global. O Gemini e o Claude ainda têm um longo caminho a percorrer para alcançar números semelhantes, mas suas presenças em mercados diversos sugerem que há espaço para crescimento e competição saudável no futuro.
 
- 0
+
  ## link do conteúdo 
  https://digitalinnovation.one/artigos/chatgpt-gemini-e-claude-ai-uma-disputa-desigual-na-lojas-de-apps
  
